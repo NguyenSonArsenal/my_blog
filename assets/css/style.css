@@ -25,7 +25,7 @@ body {
 }
 
 .rowx {
-    padding-top: 30px;
+    padding: 30px 15px 0 15px;
 }
 
 .open {
@@ -109,6 +109,10 @@ nav .collapse .navbar-nav .lang {
 
 nav .collapse .navbar-nav .lang .lang--flag {
     display: inline-block;
+}
+
+.fixed-top {
+    position: unset;
 }
 
 #top > h1 {
@@ -296,12 +300,6 @@ nav .collapse .navbar-nav .lang .lang--flag {
 /** Tab contact */
 .contact .contact__title {
     text-align: center;
-}
-
-.contact .contact__list ul {
-    /*list-style: none;*/
-    width: 21%;
-    margin: 0 auto;
 }
 
 .contact .contact__list ul li {

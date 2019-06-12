@@ -1,0 +1,16 @@
+.contact-map iframe {
+    width: 100%;
+}
+
+.contact-cover img {
+    width: 100%;
+    height: 400px;
+}
+
+.contact__list {
+    margin: 50px 0 100px;
+}
+
+.contact__list h3 {
+    margin-bottom: 20px;
+}

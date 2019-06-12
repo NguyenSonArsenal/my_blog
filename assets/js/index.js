@@ -50,13 +50,12 @@ $(document).ready(function () {
     // scroll to tab content when click menu
     $li = $('.nav-item');
     $navItem = $('.nav-item__link');
-    $li.click(function (e) {
-        e.preventDefault();
-        $navItem.removeClass('active');
-        console.log($(this).data('scroll'));
-        $('.nav-item__link_' + $(this).data('scroll')).addClass('active');
-        goToByScroll($(this).data('scroll'));
-    });
+    // $li.click(function (e) {
+    //     e.preventDefault();
+    //     $navItem.removeClass('active');
+    //     $('.nav-item__link_' + $(this).data('scroll')).addClass('active');
+    //     goToByScroll($(this).data('scroll'));
+    // });
 
     //initialize swiper when document ready
     var mySwiper = new Swiper ('.swiper-container', {
@@ -85,7 +84,7 @@ $(document).ready(function () {
 
 });
 
-var scrollPointbackTop = 100// px
+var scrollPointbackTop = 100; // px
 var scrollPointNavbar = 150; // px
 function toggleIconBackToTop(scrollTop) {
     if (scrollTop >= scrollPointbackTop) {
