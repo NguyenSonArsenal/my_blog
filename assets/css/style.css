@@ -1,6 +1,8 @@
 body {
-    font-family: 'Quicksand', -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-    color: #818C9D;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    line-height: 1.6;
+    color: #212529;
     font-size: 14px;
 }
 
@@ -304,10 +306,6 @@ nav .collapse .navbar-nav .lang .lang--flag {
 
 .contact .contact__list ul li {
     margin-top: 20px;
-}
-
-.contact .contact__list ul li a {
-    color: #818C9D;
 }
 
 .contact .contact__list ul li a i {
