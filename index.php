@@ -36,22 +36,17 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav nav navbar-right ml-auto">
                     <li class="nav-item" data-scroll="home">
-                        <a class="nav-item__link nav-item__link_home color-grey active" href="index.php">
+                        <a class="nav-item__link nav-item__link_home active" href="index.php">
                             <span>Trang chủ</span>
                         </a>
                     </li>
-                    <li class="nav-item" data-scroll="service">
-                        <a class="nav-item__link nav-item__link_service color-grey" href="post.html">
-                            <span>Chém gió</span>
-                        </a>
-                    </li>
                     <li class="nav-item" data-scroll="about">
-                        <a class="nav-item__link nav-item__link_about color-grey" href="profile.html">
+                        <a class="nav-item__link nav-item__link_about" href="profile.html">
                             <span>PR bản thân</span>
                         </a>
                     </li>
                     <li class="nav-item" data-scroll="partner">
-                        <a class="nav-item__link nav-item__link_partner color-grey" href="contact.html">
+                        <a class="nav-item__link nav-item__link_partner" href="contact.html">
                             <span>Liên hệ</span>
                         </a>
                     </li>
@@ -75,14 +70,15 @@
     </nav>
 
     <!-- Description: Top page -->
-    <div class="rowx" id="home">
-        <div class="container">
+
+    <div class="container">
+        <div class="rowx" id="home">
             <div id="top" class="text-center">
-                <h1><span class="color-green">Nguyen Son Arsenal</span></h1>
+                <h1><a href="profile.html" class="link-profile"><span class="name">Nguyen Son Arsenal</span></a></h1>
                 <h3>
-                    <span class="sp-break-line">Tự nhận mình là người khá hài hước. Cảm ơn bạn đã ghé thăm tường nhà Sơn</span>
+                    <span class="sp-break-line fadeInUp animated">Tự nhận mình là người khá hài hước. Cảm ơn bạn đã ghé thăm tường nhà Sơn</span>
                 </h3>
-                <p class="color-grey fadeInDown animated sort-description">
+                <p class="fadeInDown animated sort-description">
                     Bạn chỉ cần siêng thôi, bạn càng dễ đạt được. <br>
                     Còn bạn lười, chắc chắn bạn sẽ mãi như thời điểm vô tình đọc được những dòng này.
                 </p>
@@ -94,7 +90,7 @@
     <div class="rowx" id="">
         <div class="container">
             <div class="link-inline-block bounceIn animated">
-                <h2><a href="javascript;void(0)" class="">Chém gió</a></h2>
+                <h2><a href="./profile.html" class="">Xem thêm</a></h2>
             </div>
         </div>
     </div>

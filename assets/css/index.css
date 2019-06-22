@@ -1,0 +1,8 @@
+.name {
+    color: #df1c22;
+}
+
+#top .link-profile {
+    text-decoration: none;
+    cursor: pointer;
+}
