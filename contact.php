@@ -5,8 +5,9 @@
 
 <!-- Content: Contact -->
 <div class="rowx contact" id="contact">
-
     <div class="container">
+        <p class="color-red f18"><marquee><strong><i>Đến bao giờ ta lại mới có thể tìm lại được phiên bản tốt nhất của chính bản thân mình.</i></strong></marquee></p>
+
         <div class="contact-cover">
             <img src="assets/images/contact/contact_cover.jpg" alt="Nguyen Son Arsenal contact cover">
         </div>

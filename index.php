@@ -3,7 +3,7 @@
 <div class="container">
     <div id="home">
         <div id="top" class="text-center">
-            <h1><a href="profile.html" class="link-profile"><span class="name">Nguyen Son Arsenal</span></a></h1>
+            <h1><a href="profile.php" class="link-profile"><span class="name">Nguyen Son Arsenal</span></a></h1>
             <h3>
                 <span class="sp-break-line fadeInUp animated">Tự nhận mình là người khá hài hước. Cảm ơn bạn đã ghé thăm tường nhà Sơn</span>
             </h3>
@@ -29,7 +29,7 @@
                 <h2 class="title color-red">Nhật kí sưu tầm</h2>
                 <ul class="list">
                     <li>
-                        <a href="" class="item-title f18">Lạc lối tuổi 24, 2 năm sau ra trường</a>
+                        <a href="/post2.php" class="item-title f18">Lạc lối tuổi 24, 2 năm sau ra trường</a>
                         <small class="item-time">Ngày 5 tháng 5 năm 2019</small>
                         <p class="item-description">
                             Tuổi 24, có người 2 chó, 2 mèo, một khoản nợ kếch xù...
