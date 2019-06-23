@@ -1,0 +1,15 @@
+.content {
+    padding: 50px 0;
+}
+
+.content .content__time {
+    opacity: 0.75;
+}
+
+.content .content__heading {
+    margin-bottom: 30px;
+}
+
+.content p {
+    margin-top: 1rem;
+}

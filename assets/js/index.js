@@ -1,6 +1,6 @@
 // executes when complete page is fully loaded, including all frames, objects and images
 $(window).on('load', function () {
-    //setTimeout(removeLoader, 2000); //wait for page load PLUS two seconds.
+    setTimeout(removeLoader, 2000); //wait for page load PLUS two seconds.
 });
 
 function removeLoader() {

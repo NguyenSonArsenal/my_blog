@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Home</title>
+    <title>NguyenSonArsenal-Vlog</title>
     <link href="./assets/images/layout/favicon.png" type="image/x-icon" rel="icon">
     <link href="/bower_components/bootstrap4/dist/css/bootstrap.min.css" rel="stylesheet" type="text/css">
     <link href="/bower_components/animate/animate.min.css" rel="stylesheet" type="text/css">
@@ -22,6 +22,8 @@
     <link href="/assets/css/index.css" rel="stylesheet" type="text/css">
     <link href="/assets/css/profile.css" rel="stylesheet" type="text/css">
     <link href="/assets/css/contact.css" rel="stylesheet" type="text/css">
+    <link href="/assets/css/404.css" rel="stylesheet" type="text/css">
+    <link href="/assets/css/post.css" rel="stylesheet" type="text/css">
 </head>
 <body>
 <div id="loading" style="display: none">

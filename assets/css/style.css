@@ -6,6 +6,14 @@ body {
     font-size: 14px;
 }
 
+a:hover {
+    color: #212529;
+}
+
+.color-black-default {
+    color: #212529;
+}
+
 .color-green {
     color: #39B683;
 }
@@ -69,7 +77,8 @@ ul {
 
 #home {
     /*background: #f8f9fa;*/
-    padding-top: 12vh;
+    /* padding-top: 12vh; */
+    padding: 30px 15px 0 15px;
 }
 
 button.navbar-toggler {
@@ -335,8 +344,8 @@ nav .collapse .navbar-nav .lang .lang--flag {
 /** End tab contact */
 
 footer {
-    padding-top: 140px;
-    min-height: 340px;
+    padding: 15px 0;
+    background: #E3EAEA;
 }
 
 footer .list .list__ul {
@@ -387,7 +396,7 @@ footer .show {
     }
 
     #home {
-        padding-top: 15vh;
+        /* padding-top: 15vh; */
     }
 }
 

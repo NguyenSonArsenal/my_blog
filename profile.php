@@ -26,11 +26,11 @@
                     </ul>
                     <p>Trường cấp 3: THPT Thiệu Hóa</p>
                     <p>Trường cấp 2: THCS Thiệu Phúc</p>
-                    <p>Link facebook: <a href="https://www.facebook.com/nguyen.son.9615">Chạm là tới</a></p><br>
+                    <p>Link facebook: <a href="https://www.facebook.com/nguyen.son.9615" class="color-red">NguyenSonArsenal(Suwon)</a></p><br>
                     <h3>Kinh nghiệm làm việc</h3>
                     <ul class="skill">
                         <li>Công ty Alt Plus Việt Nam: 6/2017 tới 8/2017</li>
-                        <li>Công ty VNP: 12/2017 tới 5/201</li>
+                        <li>Công ty VNP: 12/2017 tới 5/2017</li>
                         <li>Công ty ParaLine VietNam Co., Ltd.: 6/2018 tới nay</li>
                     </ul>
                     <br>
@@ -104,7 +104,7 @@
                     </div>
                     <div class="user">
                         <img class="avatar" src="/assets/images/profile/avatar-profile.jpg">
-                        <div class="name">NguyenSonArsenal</div>
+                        <div class="name"><a href="/" class="color-red">NguyenSonArsenal</a></div>
                         <div class="position">Developer</div>
                     </div>
                 </div>
