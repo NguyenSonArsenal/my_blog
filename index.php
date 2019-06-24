@@ -1,4 +1,5 @@
 <?php include './includes/header.php';?>
+
 <!-- Description: Top page -->
 <div class="container">
     <div id="home">
@@ -13,7 +14,7 @@
             </p>
         </div>
         <div class="link-inline-block bounceIn animated">
-            <h2><a href="./profile.php" class="">Xem thêm</a></h2>
+            <h2><a href="<?php assets('profile.html') ?>" class="">Xem thêm</a></h2>
         </div>
     </div>
 </div>
@@ -23,13 +24,13 @@
     <div class="container">
         <div class="row">
             <div class="col-6">
-                <img src="/assets/images/home/1.jpg" width="85%" alt="image name">
+                <img src="<?php assets('assets/images/home/1.jpg')?>" width="85%" alt="image name">
             </div>
             <div class="col-6">
                 <h2 class="title color-red">Nhật kí sưu tầm</h2>
                 <ul class="list">
                     <li>
-                        <a href="/post2.php" class="item-title f18">Lạc lối tuổi 24, 2 năm sau ra trường</a>
+                        <a href="/v-blog/lac-loi-tuoi-24" class="item-title f18">Lạc lối tuổi 24, 2 năm sau ra trường</a>
                         <small class="item-time">Ngày 5 tháng 5 năm 2019</small>
                         <p class="item-description">
                             Tuổi 24, có người 2 chó, 2 mèo, một khoản nợ kếch xù...
@@ -38,7 +39,7 @@
                     </li>
                     <br>
                     <li>
-                        <a href="/post2.php" class="item-title f18">Lời xin lỗi ba chân thành</a>
+                        <a href="v-blog/loi-xin-loi-ba-chan-thanh" class="item-title f18">Lời xin lỗi ba chân thành</a>
                         <small class="item-time">Ngày 24 tháng 3 năm 2019</small>
                         <p>
                             Xin lỗi ba vì tất cả những chuyện đã sảy ra. Khi con đã để lỡ mất những nguyện vọng của ba...

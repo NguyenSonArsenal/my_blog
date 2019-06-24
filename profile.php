@@ -1,7 +1,7 @@
 <?php include './includes/header.php'; ?>
 
 <!-- Content: My profile -->
-<div class="rowx" id="">
+<div class="rowx profile" id="">
     <div class="container">
         <p class="color-red f18"><marquee><strong><i>Có những thứ mất đi rồi, để lại trong ta bao nhiêu là nuối tiếc.</i></strong></marquee></p>
         <br>
@@ -103,7 +103,7 @@
                         </div>
                     </div>
                     <div class="user">
-                        <img class="avatar" src="/assets/images/profile/avatar-profile.jpg">
+                        <img class="avatar" src="<?php assets('assets/images/profile/avatar-profile.jpg') ?>">
                         <div class="name"><a href="/" class="color-red">NguyenSonArsenal</a></div>
                         <div class="position">Developer</div>
                     </div>

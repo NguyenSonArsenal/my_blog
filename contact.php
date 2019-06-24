@@ -1,15 +1,12 @@
 <?php include './includes/header.php'; ?>
-<style>
-    <?php include 'CSS/main.css'; ?>
-</style>
 
 <!-- Content: Contact -->
 <div class="rowx contact" id="contact">
     <div class="container">
-        <p class="color-red f18"><marquee><strong><i>Đến bao giờ ta lại mới có thể tìm lại được phiên bản tốt nhất của chính bản thân mình.</i></strong></marquee></p>
+        <p class="color-red f18 title"><marquee><strong><i>Đến bao giờ ta lại mới có thể tìm lại được phiên bản tốt nhất của chính bản thân mình.</i></strong></marquee></p>
 
         <div class="contact-cover">
-            <img src="assets/images/contact/contact_cover.jpg" alt="Nguyen Son Arsenal contact cover">
+            <img src="<?php assets('assets/images/contact/contact_cover.jpg')?>" alt="Nguyen Son Arsenal contact cover">
         </div>
 
         <div class="contact__list">
@@ -17,7 +14,7 @@
             <ul>
                 <li><a href="https://www.facebook.com/nguyen.son.9615"><i class="fa fa-facebook" aria-hidden="true"></i>Facebook</a>
                 </li>
-                <li><a href="javascript:void(0)"><i class="fa fa-google" aria-hidden="true"></i>sonnv.paraline@gmail.com</a>
+                <li><a href="javascript:void(0)"><i class="fca fa-google" aria-hidden="true"></i>sonnv.paraline@gmail.com</a>
                 </li>
                 <li><a href="javascript:void(0)"><i class="fa fa-skype" aria-hidden="true"></i>nguyensonbk2</a></li>
                 <li><a href="https://soundcloud.com/nguyen-son-arsenal"><i class="fa fa-soundcloud"
