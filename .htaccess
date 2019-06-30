@@ -3,5 +3,6 @@ ErrorDocument 404 /404.php
 
 RewriteRule ^profile\.html$ profile.php
 RewriteRule ^contact\.html$ contact.php
+RewriteRule ^post\.html$ post.php
 RewriteRule ^v-blog/loi-xin-loi-ba-chan-thanh$ post2.php
 RewriteRule ^v-blog/lac-loi-tuoi-24$ post3.php

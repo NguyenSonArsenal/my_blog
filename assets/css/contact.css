@@ -21,3 +21,10 @@
 .contact .contact__list ul li a{
     color: #212529;
 }
+
+/* For responsive */
+@media (max-width: 768px) {
+    ul {
+        padding-left: 20px;
+    }
+}

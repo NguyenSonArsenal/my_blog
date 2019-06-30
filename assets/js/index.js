@@ -22,10 +22,10 @@ $(document).ready(function () {
         var toggle = $(this).attr('aria-expanded');
         var img = $(this).children('img');
         if (toggle == 'false') {
-            img.attr('src', './assets/images/layout/close.png');
+            img.attr('src', assets('/assets/images/layout/close.png'));
             $(this).parents('nav').addClass('open');
         }else {
-            img.attr('src', './assets/images/layout/menu.png');
+            img.attr('src', assets('/assets/images/layout/menu.png'));
             $(this).parents('nav').removeClass('open');
         }
     });

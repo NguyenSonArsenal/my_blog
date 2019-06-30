@@ -4,7 +4,7 @@
 <div class="content">
     <div class="container">
         <div class="row">
-            <div class="col-8">
+            <div class="col-sm-8">
                 <div class="content__heading">
                     <div class="content__title">
                         <h1 class="color-red">Lời xin lỗi ba chân thành</h1>
@@ -22,8 +22,8 @@
                 <img src="<?php assets('assets/images/posts/nguyen_son.jpg') ?>" width="100%" alt="me">
                 <p>Con yêu ba <img src="<?php assets('assets/images/heart.svg')?>" alt="image name"></p>
                 <p>Con gửi tặng ba bài hát mà con rất yêu thích từ một người bạn của con.</p>
-                <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FLTP95%2Fvideos%2F2739552032937125%2F&show_text=0&width=560"
-                        width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0"
+                <iframe class="i-frame" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FLTP95%2Fvideos%2F2739552032937125%2F&show_text=0&width=560"
+                        style="border:none;overflow:hidden" scrolling="no" frameborder="0"
                         allowTransparency="true" allowFullScreen="true"></iframe>
             </div>
         </div>

@@ -14,7 +14,7 @@
             <ul>
                 <li><a href="https://www.facebook.com/nguyen.son.9615"><i class="fa fa-facebook" aria-hidden="true"></i>Facebook</a>
                 </li>
-                <li><a href="javascript:void(0)"><i class="fca fa-google" aria-hidden="true"></i>sonnv.paraline@gmail.com</a>
+                <li><a href="javascript:void(0)"><i class="fa fa-google" aria-hidden="true"></i>sonnv.paraline@gmail.com</a>
                 </li>
                 <li><a href="javascript:void(0)"><i class="fa fa-skype" aria-hidden="true"></i>nguyensonbk2</a></li>
                 <li><a href="https://soundcloud.com/nguyen-son-arsenal"><i class="fa fa-soundcloud"

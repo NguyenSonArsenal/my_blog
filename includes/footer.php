@@ -3,7 +3,7 @@
         <img src="<?php assets('assets/images/heart.svg') ?>" alt="image name"> Tại Hà Nội
     </div>
     <div class="footer__back-to-top">
-        <img id="icon-back-to-top" src="<?php assets('assets/images/arrow-up-icon.png') ?>" alt="Back to top" width="40px">
+        <img id="icon-back-to-top" src="<?php assets('assets/images/arrow-up-icon.png') ?>" alt="Back to top">
     </div>
 </footer>
 </div>

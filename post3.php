@@ -4,7 +4,7 @@
 <div class="content">
     <div class="container">
         <div class="row">
-            <div class="col-8">
+            <div class="col-sm-8">
                 <div class="content__heading">
                     <div class="content__title">
                         <h1 class="color-red">24 tuổi, 2 năm ra sau khi ra trường...</h1>
@@ -122,7 +122,7 @@
 
                 <p>Dành tặng tất cả những ai đã đọc tới những dòng này ca khúc: Khát vọng thượng lưu. Kèm theo những lời
                     chúc mừng tốt đẹp nhất <i class="color-red">về một cuộc sống như ta hằng mơ ước.</i></p>
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/1OuAQ_itsrw" frameborder="0"
+                <iframe class="i-frame" src="https://www.youtube.com/embed/1OuAQ_itsrw" frameborder="0"
                         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                         allowfullscreen></iframe>
             </div>

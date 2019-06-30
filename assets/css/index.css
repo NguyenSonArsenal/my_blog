@@ -9,8 +9,8 @@
 
 .home__blog {
     background: #f8f9fa;
-    margin-top: 100px;
-    padding: 50px 0;
+    margin-top: 50px;
+    padding: 30px 15px 50px 15px;
 }
 
 .home__blog .item-title {
@@ -32,4 +32,28 @@
 
 .home__blog .more:hover {
     color: #212529;
+}
+
+.img-fluid {
+    width: 85%;
+}
+
+.home__blog .blog__item {
+    text-decoration: none;
+    color: black;
+}
+
+.home__blog .blog__item:hover {
+    color: black;
+}
+
+/* For responsive */
+@media screen and (max-width: 768px) {
+    .img-fluid {
+        width: 100%;
+    }
+
+    .home__blog .title {
+        margin-top: 15px;
+    }
 }

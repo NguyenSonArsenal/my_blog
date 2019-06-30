@@ -22,7 +22,7 @@
                     <ul class="skill">
                         <li>Kĩ sư Công nghệ phần mềm</li>
                         <li><i>Đại Học Bách Khoa Hà Nội</i></li>
-                        <li>2013-2018</li>
+                        <li>Khóa K58 (2013-2018)</li>
                     </ul>
                     <p>Trường cấp 3: THPT Thiệu Hóa</p>
                     <p>Trường cấp 2: THCS Thiệu Phúc</p>

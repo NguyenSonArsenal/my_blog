@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>NguyenSonArsenal-Vlog</title>
     <link href="<?php assets('assets/images/layout/favicon.png')?>" type="image/x-icon" rel="icon">
-    <link href="<?php assets('bower_components/bootstrap4/dist/css/bootstrap.min.css')?>" rel="stylesheet" type="text/css">
+    <link href="<?php assets('bower_components/bootstrap4/css/bootstrap.min.css')?>" rel="stylesheet" type="text/css">
     <link href="<?php assets('bower_components/animate/animate.min.css')?>" rel="stylesheet" type="text/css">
     <link href="<?php assets('assets/css/common.css')?>" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css"/>
@@ -16,7 +16,7 @@
           href="https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700&amp;subset=vietnamese&&w=2.2.7.22008864"/>
 
     <script src="<?php assets('/bower_components/jquery/jquery-3.3.1.min.js')?>"></script>
-    <script src="<?php assets('/bower_components/bootstrap4/dist/js/bootstrap.min.js')?>"></script>
+    <script src="<?php assets('/bower_components/bootstrap4/js/bootstrap.min.js')?>"></script>
 
     <link href="<?php assets('assets/css/style.css')?>" rel="stylesheet" type="text/css">
     <link href="<?php assets('/assets/css/index.css')?>" rel="stylesheet" type="text/css">
@@ -29,6 +29,7 @@
 <div id="loading" style="display: none">
     <img id="loading-image" src="<?php assets('assets/images/loading.gif')?>" alt="Loading...">
 </div>
+<div class="hidden" id="http-host-alias"><?php assets() ?></div>
 <div id="wrapper">
     <nav class="navbar navbar-expand-lg navbar-light fixed-top">
         <div class="container">
@@ -45,6 +46,11 @@
                     <li class="nav-item" data-scroll="home">
                         <a class="nav-item__link nav-item__link_home <?php getMenuActive('index.php') ?>" href="/">
                             <span>Trang chủ</span>
+                        </a>
+                    </li>
+                    <li class="nav-item" data-scroll="home">
+                        <a class="nav-item__link nav-item__link_home <?php getMenuActive('post.php') ?>" href="<?php assets('post.html') ?>">
+                            <span>Chém gió</span>
                         </a>
                     </li>
                     <li class="nav-item" data-scroll="about">

@@ -4,7 +4,7 @@ function getMenuActive($item)
     echo basename($_SERVER['SCRIPT_NAME']) == $item || basename($_SERVER['SCRIPT_NAME']) == '' ? 'active' : '';
 }
 
-function assets($path)
+function assets($path = '')
 {
     $http = isset($_SERVER['HTTPS']) ? "https://" : "http://";
     echo $http . $_SERVER['HTTP_HOST'] . "/" . ltrim($path, '/');
