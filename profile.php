@@ -3,7 +3,7 @@
 <!-- Content: My profile -->
 <div class="rowx profile" id="">
     <div class="container">
-        <p class="color-red f18"><marquee><strong><i>Có những thứ mất đi rồi, để lại trong ta bao nhiêu là nuối tiếc.</i></strong></marquee></p>
+        <p class="color-red f18"><marquee><strong><i>Có những thứ mất đi, để lại trong ta bao nhiêu là nuối tiếc.</i></strong></marquee></p>
         <br>
         <div class="row">
             <div class="col-sm-8">
@@ -29,8 +29,8 @@
                     <p>Link facebook: <a href="https://www.facebook.com/nguyen.son.9615" class="color-red">NguyenSonArsenal(Suwon)</a></p><br>
                     <h3>Kinh nghiệm làm việc</h3>
                     <ul class="skill">
-                        <li>Công ty Alt Plus Việt Nam: 6/2017 tới 8/2017</li>
-                        <li>Công ty VNP: 12/2017 tới 5/2017</li>
+                        <li>Công ty Alt Plus Việt Nam: 6/2017 tới 9/2017</li>
+                        <li>Công ty VNP: 12/2017 tới 5/2018</li>
                         <li>Công ty ParaLine VietNam Co., Ltd.: 6/2018 tới nay</li>
                     </ul>
                     <br>
