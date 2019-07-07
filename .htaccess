@@ -6,3 +6,4 @@ RewriteRule ^contact\.html$ contact.php
 RewriteRule ^post\.html$ post.php
 RewriteRule ^v-blog/loi-xin-loi-ba-chan-thanh$ post2.php
 RewriteRule ^v-blog/lac-loi-tuoi-24$ post3.php
+RewriteRule ^v-blog/cau-chuyen-ve-chuyen-xe-muon$ post4.php

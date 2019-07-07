@@ -10,14 +10,13 @@
     <link href="<?php assets('assets/images/layout/favicon.png')?>" type="image/x-icon" rel="icon">
     <link href="<?php assets('bower_components/bootstrap4/css/bootstrap.min.css')?>" rel="stylesheet" type="text/css">
     <link href="<?php assets('bower_components/animate/animate.min.css')?>" rel="stylesheet" type="text/css">
-    <link href="<?php assets('assets/css/common.css')?>" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css"/>
     <link rel="stylesheet" type="text/css"
           href="https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700&amp;subset=vietnamese&&w=2.2.7.22008864"/>
 
     <script src="<?php assets('/bower_components/jquery/jquery-3.3.1.min.js')?>"></script>
     <script src="<?php assets('/bower_components/bootstrap4/js/bootstrap.min.js')?>"></script>
-
+    <link href="<?php assets('assets/css/common.css')?>" rel="stylesheet" type="text/css">
     <link href="<?php assets('assets/css/style.css')?>" rel="stylesheet" type="text/css">
     <link href="<?php assets('/assets/css/index.css')?>" rel="stylesheet" type="text/css">
     <link href="<?php assets('assets/css/profile.css')?>" rel="stylesheet" type="text/css">
@@ -35,7 +34,9 @@
         <div class="container">
             <a class="navbar-brand" href="/">
                 <img src="<?php assets('assets/images/layout/favicon.png')?>" alt="Logo">
-                <span class="company-name color-red">NguyenSonArsenal</span>
+                <span class="company-name color-red">NguyenSonArsenal</span><br>
+                <img src="<?php assets('assets/images/layout/favicon.png')?>" alt="Logo" class="opacity-0">
+                <small class="f12 color-red">Sương gió phủ đời trai</small>
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
                     aria-expanded="false">

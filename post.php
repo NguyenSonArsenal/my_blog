@@ -14,6 +14,15 @@
         <div class="list_post_wrapper">
             <ul class="list_post_ul">
                 <li class="list_post_item">
+                    <a href="/v-blog/cau-chuyen-ve-chuyen-xe-muon" class="item_title">Câu chuyện về quê trên chuyến xe muộn.</a>
+                    <br>
+                    <small class="item-time">Ngày 7 tháng 7 năm 2019</small>
+                    <p class="item-description">
+                        Bài viết được trích từ một người bạn, người em mình mới quen, xin phép được gọi em là cô gái...
+                    </p>
+                </li>
+
+                <li class="list_post_item">
                     <a href="/v-blog/lac-loi-tuoi-24" class="item_title">Lạc lối tuổi 24, 2 năm sau ra trường</a>
                     <br>
                     <small class="item-time">Ngày 5 tháng 5 năm 2019</small>
