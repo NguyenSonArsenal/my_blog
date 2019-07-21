@@ -22,6 +22,11 @@
 <div class="block introduction block-bg ">
     <div class="container">
         <div class="row">
+            <div class="col-sm-4 sp">
+                <div class="user text-center">
+                    <img src="<?php assets('assets/images/posts/nguyen_son.jpg') ?>" width="100%" alt="me">
+                </div>
+            </div>
             <div class="col-sm-8">
                 <div class="intro-content text-justify">
                     <h2 class="homepage__title color-red">Xin chào</h2>
@@ -36,7 +41,7 @@
                     Tác giả ngàn lần đội ơn. <3
                 </div>
             </div>
-            <div class="col-sm-4">
+            <div class="col-sm-4 pc">
                 <div class="user text-center">
                     <img src="<?php assets('assets/images/posts/nguyen_son.jpg') ?>" width="100%" alt="me">
                 </div>
@@ -56,6 +61,17 @@
             <div class="col-sm-6">
                 <h2 class="title color-red">Nhật kí sưu tầm</h2><br>
                 <ul class="list">
+                    <li>
+                        <a class="blog__item" href="/v-blog/mot-thoang-bach-khoa-trong-toi">
+                            <h4 class="item-title f18">Một thoáng bách khoa trong tôi.</h4>
+                            <small class="item-time">Ngày 21 tháng 7 năm 2019</small>
+                            <p class="item-description">
+                                Gần đây, tôi hay nhận được rất nhiều cuộc điện thoại từ các phụ huynh ở quê, có con vừa thi đại học,
+                                và có nguyện vọng cho con vào học Bách Khoa,
+                            </p>
+                        </a>
+                    </li>
+                    <br>
                     <li>
                         <a class="blog__item" href="/v-blog/cau-chuyen-ve-chuyen-xe-muon">
                             <h4 class="item-title f18">Câu chuyện về quê trên chuyến xe muộn.</h4>

@@ -14,6 +14,16 @@
         <div class="list_post_wrapper">
             <ul class="list_post_ul">
                 <li class="list_post_item">
+                    <a href="/v-blog/mot-thoang-bach-khoa-trong-toi" class="item_title">Một thoáng bách khoa trong tôi.</a>
+                    <br>
+                    <small class="item-time">Ngày 21 tháng 7 năm 2019</small>
+                    <p class="item-description">
+                        Gần đây, tôi hay nhận được rất nhiều cuộc điện thoại từ các phụ huynh ở quê, có con vừa thi đại học
+                        , và có nguyện vọng cho con vào học Bách Khoa.
+                    </p>
+                </li>
+
+                <li class="list_post_item">
                     <a href="/v-blog/cau-chuyen-ve-chuyen-xe-muon" class="item_title">Câu chuyện về quê trên chuyến xe muộn.</a>
                     <br>
                     <small class="item-time">Ngày 7 tháng 7 năm 2019</small>

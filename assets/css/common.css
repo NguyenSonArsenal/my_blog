@@ -27,6 +27,10 @@
 }
 
 /** Font size */
+.f10 {
+  font-size: 10px;
+}
+
 .f12 {
   font-size: 12px;
 }

@@ -6,6 +6,14 @@ body {
     font-size: 14px;
 }
 
+.pc {
+    display: block;
+}
+
+.sp {
+    display: none;
+}
+
 .hidden {
     display: none;
 }
@@ -73,6 +81,8 @@ nav {
 
 nav .navbar-brand > img {
     width: 30px;
+    position: relative;
+    top: 8px;
 }
 
 nav .navbar-brand .company-name {
@@ -112,6 +122,10 @@ nav .collapse .navbar-nav .lang {
 
 nav .collapse .navbar-nav .lang .lang--flag {
     display: inline-block;
+}
+
+.content_body .action {
+    margin-top: 20px;
 }
 
 .navbar-brand small {
@@ -410,6 +424,14 @@ footer .show {
 
     .items .item {
         width: 33.33%;
+    }
+
+    .pc {
+        display: none;
+    }
+
+    .sp {
+        display: block;
     }
 }
 

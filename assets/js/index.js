@@ -56,32 +56,6 @@ $(document).ready(function () {
     //     $('.nav-item__link_' + $(this).data('scroll')).addClass('active');
     //     goToByScroll($(this).data('scroll'));
     // });
-
-    //initialize swiper when document ready
-    var mySwiper = new Swiper ('.swiper-container', {
-        // Optional parameters
-        autoHeight: true, //enable auto height
-        slidesPerView: 3,
-        spaceBetween: 30,
-        loop: true,
-        pagination: '.swiper-pagination',
-        paginationClickable: true,
-        parallax: true,
-        speed: 600,
-        autoplay: 5000,
-        breakpoints: {
-            568: {
-                slidesPerView: 1,
-                slidesPerGroup: 1
-            },
-            767: {
-                slidesPerView: 2,
-                slidesPerGroup: 2
-            },
-
-        }
-    })
-
 });
 
 var scrollPointbackTop = 100; // px
