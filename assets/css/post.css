@@ -45,6 +45,10 @@
     margin-top: 2px;
 }
 
+.img-reaction {
+    width: 15px;
+}
+
 /* For responsive */
 @media screen and (max-width: 768px) {
     .i-frame {
