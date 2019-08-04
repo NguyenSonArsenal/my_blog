@@ -3,11 +3,31 @@
 <html lang="vi" class="">
 <head lang="vi">
     <meta charset="utf-8">
+
+    <!-- Setting the viewport to make your website look good on all devices -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>NguyenSonArsenal-Vlog</title>
+
+    <!-- Define a title of web page -->
+    <title><?php getMeta($metaTitle, "NguyenSonArsenal") ?></title>
+
+    <!-- Define a description of web page -->
+    <meta name="description" content="<?php getMeta($metaDescription); ?>">
+
+    <!-- Define keywords for search engines -->
+    <meta name="keywords" content="<?php getMeta($metaKeyword) ?>">
+
+    <!-- Define the author of a page -->
+    <meta name="author" content="NguyenSonArsenal">
+
+    <meta name="google-site-verification" content="uUa28Cv5SpsXSfBxxQX-agw2rrsqnEss_fNSousYOwg" />
+
+    <!-- Define the favicon of a page -->
     <link href="<?php assets('assets/images/layout/favicon.png')?>" type="image/x-icon" rel="icon">
+
+
+    <link rel="canonical” href="<?php getMeta($canonical) ?>">
+
     <link href="<?php assets('bower_components/bootstrap4/css/bootstrap.min.css')?>" rel="stylesheet" type="text/css">
     <link href="<?php assets('bower_components/animate/animate.min.css')?>" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css"/>
@@ -23,6 +43,17 @@
     <link href="<?php assets('/assets/css/contact.css')?>" rel="stylesheet" type="text/css">
     <link href="<?php assets('/assets/css/404.css')?>" rel="stylesheet" type="text/css">
     <link href="<?php assets('/assets/css/post.css')?>" rel="stylesheet" type="text/css">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-145067257-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-145067257-1');
+    </script>
+
 </head>
 <body>
 <div id="loading" style="display: none">

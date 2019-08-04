@@ -1,6 +1,10 @@
 RewriteEngine On
 ErrorDocument 404 /404.php
 
+RewriteRule ^(.*)/$ /$1 [L,R=301]
+
+RewriteRule ^sitemap\.xml sitemap.xml
+
 RewriteRule ^profile\.html$ profile.php
 RewriteRule ^contact\.html$ contact.php
 RewriteRule ^post\.html$ post.php

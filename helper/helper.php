@@ -18,3 +18,8 @@ function loadIconNumber($number)
            <strong class="fa-stack-1x text-white">' . $number . '</strong>             
         </span>';
 }
+
+function getMeta($value = '', $default = '')
+{
+    echo empty($value) ? $default : $value;
+}
