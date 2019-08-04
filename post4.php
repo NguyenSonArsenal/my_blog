@@ -50,9 +50,9 @@
                                 </g>
                             </g>
                         </svg>
-                        <b>Tôi mới ra đây được 2 ngày, đi làm phụ hồ lấy tiền về chưa bệnh cho vợ, thì tiền đâu mà ăn
+                        <b>Tôi mới ra đây được 2 ngày, đi làm phụ hồ lấy tiền về chữa bệnh cho vợ, thì tiền đâu mà ăn
                             bánh
-                            mì</b>
+                            mì.</b>
                         <svg class="quote-end" width="15px" height="14px" viewBox="0 0 15 14" version="1.1"
                              xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                             <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
@@ -91,7 +91,7 @@
                         Rồi cái giọng thoáng quen thuộc vang lên: <b>"Có. Từ đó về nhà tôi 10 cây nữa, nhưng chắc bà ấy
                             mất
                             rồi, nên không ai ra đón tôi được.
-                            Không biết xuống xe có xe ôm không.." </b> <br><br>
+                            Không biết xuống xe có xe ôm không." </b> <br><br>
 
                         <i class="fa fa-asterisk color-red"></i> Nghe tới đây, cô gái ngẩng lên, thấy hình bóng bác khi
                         nãy,
@@ -115,14 +115,14 @@
                         bố đi mua thêm gì cho chị ăn không đói, về nhà thì mẹ đang dọn đồ ăn ở nhà nữa.... <br>
                         <i class="fa fa-asterisk color-red"></i> <b>Về nhà thật bình yên </b>, thấy mình vẫn còn nhỏ bé
                         để
-                        đươc yêu thương quáaa. <br>
+                        đươc yêu thương quá. <br>
                         Giờ này nằm nhìn lại, không biết nhà bác sao rồi, nhưng thôi tạm gác lại bộn bề suy nghĩ những
                         ngày
                         qua, tận hưởng vài ngày cuối tuần bên gia đình.
                         <br><br>
                         <b>Giờ đây, có lẽ, cũng ở cái tuổi trưởng thành</b>, cô gái không tự iu thương, chăm sóc cho bản
                         thân mình thì ai yêu thương cô nữa đây.
-                        Và từ đó, Cô gái không còn thấy đen đủi khi bị trễ xe nữa, thay vào đó là nhờ chuyến xe về muộn,
+                        Và từ đó, cô gái không còn thấy đen đủi khi bị trễ xe nữa, thay vào đó là nhờ chuyến xe về muộn,
                         gặp
                         câu chuyện của bác khi nãy.
                         để cô nàng có thể biết được.

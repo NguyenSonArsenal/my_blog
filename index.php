@@ -73,7 +73,7 @@ include './includes/header.php';
                             <small class="item-time">Ngày 21 tháng 7 năm 2019</small>
                             <p class="item-description">
                                 Gần đây, tôi hay nhận được rất nhiều cuộc điện thoại từ các phụ huynh ở quê, có con vừa thi đại học,
-                                và có nguyện vọng cho con vào học Bách Khoa,
+                                và có nguyện vọng cho con vào học Đại Học Bách Khoa Hà Nội...
                             </p>
                         </a>
                     </li>
