@@ -1,4 +1,11 @@
-<?php include './includes/header.php'; ?>
+<?php
+$metaTitle = "Nguyen Son Arsenal - Bài viết - Gia đình, sức khỏe, đam mê, thể thao";
+$metaDescription = "Website tổng hợp những kinh nghiệm cuộc sống, gia đình, kĩ năng lập trình, sưu tầm những mẫu chuyện hay của chính tác giả cũng như những người bạn ";
+$metaKeyword = "IT, CNTT, Bách Khoa, lập trình, gia đình, arsenal, Nguyen Son Arsenal";
+$canonical = "http://sonnguyen-vlog.top/";
+
+include './includes/header.php';
+?>
 
 <!-- Content: List posts -->
 <div class="rowx post" id="post">

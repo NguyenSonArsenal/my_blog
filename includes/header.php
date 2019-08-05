@@ -22,6 +22,12 @@
 
     <meta name="google-site-verification" content="uUa28Cv5SpsXSfBxxQX-agw2rrsqnEss_fNSousYOwg" />
 
+    <!-- Define the position of a page -->
+    <meta name=”geo.placename” content="Ha Noi" />
+    <meta name="geo.region" content="VN" />
+    <meta name="geo.position" content="21.02945;105.854444" />
+    <meta name="ICBM" content="21.02945, 105.854444" />
+
     <!-- Define the favicon of a page -->
     <link href="<?php assets('assets/images/layout/favicon.png')?>" type="image/x-icon" rel="icon">
 
@@ -76,22 +82,22 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav nav navbar-right ml-auto">
                     <li class="nav-item" data-scroll="home">
-                        <a class="nav-item__link nav-item__link_home <?php getMenuActive('index.php') ?>" href="/">
+                        <a class="nav-item__link nav-item__link_home <?php getMenuActive('home') ?>" href="/">
                             <span>Trang chủ</span>
                         </a>
                     </li>
                     <li class="nav-item" data-scroll="home">
-                        <a class="nav-item__link nav-item__link_home <?php getMenuActive('post.php') ?>" href="<?php assets('post.html') ?>">
+                        <a class="nav-item__link nav-item__link_home <?php getMenuActive('post') ?>" href="<?php assets('post.html') ?>">
                             <span>Chém gió</span>
                         </a>
                     </li>
                     <li class="nav-item" data-scroll="about">
-                        <a class="nav-item__link nav-item__link_about <?php getMenuActive('profile.php') ?>" href="<?php assets('profile.html') ?>">
+                        <a class="nav-item__link nav-item__link_about <?php getMenuActive('profile') ?>" href="<?php assets('profile.html') ?>">
                             <span>PR bản thân</span>
                         </a>
                     </li>
                     <li class="nav-item" data-scroll="partner">
-                        <a class="nav-item__link nav-item__link_partner <?php getMenuActive('contact.php') ?>" href="<?php assets('contact.html') ?>">
+                        <a class="nav-item__link nav-item__link_partner <?php getMenuActive('contact') ?>" href="<?php assets('contact.html') ?>">
                             <span>Liên hệ</span>
                         </a>
                     </li>

@@ -1,4 +1,11 @@
-<?php include './includes/header.php'; ?>
+<?php
+$metaTitle = "";
+$metaDescription = "";
+$metaKeyword = "Nguyen Son Arsenal, 404 page";
+$canonical = "http://sonnguyen-vlog.top/";
+
+include './includes/header.php';
+?>
 
 <!-- 404 page -->
 <div class="container">
@@ -6,7 +13,7 @@
         <div class="page404">
             <div class="row">
                 <div class="col-4 offset-2">
-                    <img src="./assets/images/404.png" alt="image 404 page">
+                    <img src="<?php assets('assets/images/404.png') ?>" width="100%" alt="image 404 page">
                 </div>
                 <div class="col-5">
                     <p class="name">Truy cập của bạn có thể bị lỗi hoặc không tìm thấy nội dung</p>

@@ -1,9 +1,19 @@
-<?php include './includes/header.php'; ?>
+<?php
+$metaTitle = "Nguyen Son Arsenal - Contact - Gia đình, sức khỏe, đam mê, thể thao";
+$metaDescription = "Website tổng hợp những kinh nghiệm cuộc sống, gia đình, kĩ năng lập trình, sưu tầm những mẫu chuyện hay của chính tác giả cũng như những người bạn ";
+$metaKeyword = "IT, CNTT, Bách Khoa, lập trình, gia đình, arsenal, Nguyen Son Arsenal";
+$canonical = "http://sonnguyen-vlog.top/";
+include './includes/header.php';
+?>
 
 <!-- Content: Contact -->
 <div class="rowx contact" id="contact">
     <div class="container">
-        <p class="color-red f18 title"><marquee><strong><i>Đến bao giờ ta lại mới có thể tìm lại được phiên bản tốt nhất của chính bản thân mình.</i></strong></marquee></p>
+        <p class="color-red f18 title">
+            <marquee><strong><i>
+                        Cái hay của cuộc sống là mỗi ngày trôi qua, mình lại là một phiên bản tốt hơn rất nhiều, mình của ngày hôm qua.
+                    </i></strong></marquee>
+        </p>
 
         <div class="contact-cover">
             <img src="<?php assets('assets/images/contact/contact_cover.jpg')?>" alt="Nguyen Son Arsenal contact cover">

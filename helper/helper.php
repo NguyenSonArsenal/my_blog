@@ -1,7 +1,17 @@
 <?php
 function getMenuActive($item)
 {
-    echo basename($_SERVER['SCRIPT_NAME']) == $item || basename($_SERVER['SCRIPT_NAME']) == '' ? 'active' : '';
+    $requestUri = $_SERVER['REQUEST_URI'];
+
+    if ($requestUri == '/') {
+        $requestUri = 'home';
+    }
+
+    if (strContain($requestUri, 'v-blog')) {
+        $requestUri = 'post';
+    }
+
+    echo strContain($requestUri, $item) ? "active" : "";
 }
 
 function assets($path = '')
@@ -22,4 +32,9 @@ function loadIconNumber($number)
 function getMeta($value = '', $default = '')
 {
     echo empty($value) ? $default : $value;
+}
+
+function strContain($str, $needle)
+{
+    return strpos($str, $needle) !== false;
 }

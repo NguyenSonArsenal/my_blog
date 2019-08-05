@@ -1,9 +1,17 @@
-<?php include './includes/header.php'; ?>
+<?php
+$metaTitle = "Nguyen Son Arsenal - Profile - Gia đình, sức khỏe, đam mê, thể thao";
+$metaDescription = "Website tổng hợp những kinh nghiệm cuộc sống, gia đình, kĩ năng lập trình, sưu tầm những mẫu chuyện hay của chính tác giả cũng như những người bạn ";
+$metaKeyword = "IT, CNTT, Bách Khoa, lập trình, gia đình, arsenal, Nguyen Son Arsenal";
+$canonical = "http://sonnguyen-vlog.top/";
+include './includes/header.php';
+?>
 
 <!-- Content: My profile -->
 <div class="rowx profile" id="">
     <div class="container">
-        <p class="color-red f18"><marquee><strong><i>Có những thứ mất đi, để lại trong ta bao nhiêu là nuối tiếc.</i></strong></marquee></p>
+        <p class="color-red f18">
+            <marquee><strong><i>Có những thứ mất đi, để lại trong ta bao nhiêu là nuối tiếc.</i></strong></marquee>
+        </p>
         <br>
         <div class="row">
             <div class="col-sm-8">
@@ -26,7 +34,8 @@
                     </ul>
                     <p>Trường cấp 3: THPT Thiệu Hóa</p>
                     <p>Trường cấp 2: THCS Thiệu Phúc</p>
-                    <p>Link facebook: <a href="https://www.facebook.com/nguyen.son.9615" class="color-red">NguyenSonArsenal(Suwon)</a></p><br>
+                    <p>Link facebook: <a href="https://www.facebook.com/nguyen.son.9615" class="color-red">NguyenSonArsenal(Suwon)</a>
+                    </p><br>
                     <h3>Kinh nghiệm làm việc</h3>
                     <ul class="skill">
                         <li>Công ty Alt Plus Việt Nam: 6/2017 tới 9/2017</li>
