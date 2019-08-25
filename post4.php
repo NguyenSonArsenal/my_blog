@@ -96,7 +96,13 @@ include './includes/header.php';
                     </small>
 
                     <div class="action">
-                        <a class="color-red" href="cau-chuyen-ve-chuyen-xe-muon"><small><< Câu chuyện về chuyến xe về quê muộn</small></a>
+                        <a class="color-red" href="cau-chuyen-ve-chuyen-xe-muon">
+                            <small><< Câu chuyện về chuyến xe về quê muộn</small>
+                        </a>
+                        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                        <a class="color-red" href="chung-ta-deu-lon-va-truong-thanh-ca-roi">
+                            <small>Chúng ta đều lớn và trưởng thành cả rồi. >></small>
+                        </a>
                     </div>
                 </div>
             </div>

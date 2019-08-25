@@ -68,6 +68,15 @@ include './includes/header.php';
                 <h2 class="title color-red">Nhật kí sưu tầm</h2><br>
                 <ul class="list">
                     <li>
+                        <a class="blog__item" href="/v-blog/chung-ta-deu-lon-va-truong-thanh-ca-roi">
+                            <h4 class="item-title f18">Chúng ta đều lớn và trưởng thành cả rồi.</h4>
+                            <small class="item-time">Ngày 24 tháng 8 năm 2019</small>
+                            <p class="item-description">
+                                Có lớn, có khôn rồi mới hiểu, trên đời này, chẳng sợ gì, chỉ sợ một ngày mai nhìn thấy những giọt lệ lăn dài trên đôi mắt của ba mẹ....
+                            </p>
+                        </a>
+                    </li>
+                    <li>
                         <a class="blog__item" href="/v-blog/mot-thoang-bach-khoa-trong-toi">
                             <h4 class="item-title f18">Một thoáng bách khoa trong tôi.</h4>
                             <small class="item-time">Ngày 21 tháng 7 năm 2019</small>

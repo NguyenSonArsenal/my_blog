@@ -12,3 +12,4 @@ RewriteRule ^v-blog/loi-xin-loi-ba-chan-thanh$ post1.php
 RewriteRule ^v-blog/lac-loi-tuoi-24$ post2.php
 RewriteRule ^v-blog/cau-chuyen-ve-chuyen-xe-muon$ post3.php
 RewriteRule ^v-blog/mot-thoang-bach-khoa-trong-toi$ post4.php
+RewriteRule ^v-blog/chung-ta-deu-lon-va-truong-thanh-ca-roi$ post5.php
