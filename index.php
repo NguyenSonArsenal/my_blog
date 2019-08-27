@@ -72,10 +72,13 @@ include './includes/header.php';
                             <h4 class="item-title f18">Chúng ta đều lớn và trưởng thành cả rồi.</h4>
                             <small class="item-time">Ngày 24 tháng 8 năm 2019</small>
                             <p class="item-description">
-                                Có lớn, có khôn rồi mới hiểu, trên đời này, chẳng sợ gì, chỉ sợ một ngày mai nhìn thấy những giọt lệ lăn dài trên đôi mắt của ba mẹ....
+                                Có lớn, có khôn rồi mới hiểu, trên đời này, chẳng sợ gì,
+                                chỉ sợ một ngày mai nhìn thấy những giọt lệ lăn dài trên đôi mắt của ba mẹ....
                             </p>
                         </a>
                     </li>
+                    <br>
+
                     <li>
                         <a class="blog__item" href="/v-blog/mot-thoang-bach-khoa-trong-toi">
                             <h4 class="item-title f18">Một thoáng bách khoa trong tôi.</h4>
@@ -87,6 +90,7 @@ include './includes/header.php';
                         </a>
                     </li>
                     <br>
+
                     <li>
                         <a class="blog__item" href="/v-blog/cau-chuyen-ve-chuyen-xe-muon">
                             <h4 class="item-title f18">Câu chuyện về quê trên chuyến xe muộn.</h4>
@@ -98,6 +102,7 @@ include './includes/header.php';
                         </a>
                     </li>
                     <br>
+
                     <li>
                         <a class="blog__item" href="/v-blog/lac-loi-tuoi-24">
                             <h4 class="item-title f18">Lạc lối tuổi 24, 2 năm sau ra trường</h4>
@@ -109,6 +114,7 @@ include './includes/header.php';
                         </a>
                     </li>
                     <br>
+
                     <li>
                         <a class="blog__item" href="/v-blog/loi-xin-loi-ba-chan-thanh">
                             <h4 class="item-title f18">Lời xin lỗi ba chân thành</h4>

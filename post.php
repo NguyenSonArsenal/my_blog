@@ -21,6 +21,16 @@ include './includes/header.php';
         <div class="list_post_wrapper">
             <ul class="list_post_ul">
                 <li class="list_post_item">
+                    <a href="/v-blog/chung-ta-deu-lon-va-truong-thanh-ca-roi" class="item_title">Chúng ta đều lớn và trưởng thành cả rồi.</a>
+                    <br>
+                    <small class="item-time">Ngày 24 tháng 8 năm 2019</small>
+                    <p class="item-description">
+                        Có lớn, có khôn rồi mới hiểu, trên đời này, chẳng sợ gì,
+                        chỉ sợ một ngày mai nhìn thấy những giọt lệ lăn dài trên đôi mắt của ba mẹ....
+                    </p>
+                </li>
+
+                <li class="list_post_item">
                     <a href="/v-blog/mot-thoang-bach-khoa-trong-toi" class="item_title">Một thoáng bách khoa trong tôi.</a>
                     <br>
                     <small class="item-time">Ngày 21 tháng 7 năm 2019</small>
