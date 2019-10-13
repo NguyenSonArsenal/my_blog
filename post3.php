@@ -18,6 +18,7 @@ include './includes/header.php';
                         <h1 class="color-red">Câu chuyện về quê trên chuyến xe muộn.</h1>
                     </div>
                     <div class="content__time"><span>Ngày 7 tháng 7 năm 2019</span></div>
+                    <div class="content__time"><small>(Bài viết số 2)</small></div>
                 </div>
                 <div class="content_body text-justify">
 
@@ -183,8 +184,8 @@ include './includes/header.php';
                     </small>
 
                     <div class="action">
-                        <a class="color-red" href="lac-loi-tuoi-24">
-                            <small><< Chênh vênh tuổi 24 mới ra trường</small>
+                        <a class="color-red" href="loi-xin-loi-ba-chan-thanh">
+                            <small><< Lời xin lỗi ba chân thành </small>
                         </a>
                         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                         <a class="color-red" href="mot-thoang-bach-khoa-trong-toi">

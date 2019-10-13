@@ -332,10 +332,18 @@ nav .collapse .navbar-nav .lang .lang--flag {
 }
 
 /** End tab contact */
+#wrapper {
+    position: relative;
+    min-height: 100vh;
+}
 
 footer {
-    padding: 15px 0;
+    height: 50px;
+    line-height: 50px;
     background: #E3EAEA;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 }
 
 footer .list .list__ul {

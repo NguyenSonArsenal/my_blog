@@ -21,7 +21,18 @@ include './includes/header.php';
         <div class="list_post_wrapper">
             <ul class="list_post_ul">
                 <li class="list_post_item">
-                    <a href="/v-blog/chung-ta-deu-lon-va-truong-thanh-ca-roi" class="item_title">Chúng ta đều lớn và trưởng thành cả rồi.</a>
+                    <a href="/v-blog/nguoi-thay-va-moi-tinh-7-nam" class="item_title">Người thầy, mối tình 7 năm và hồi kết.</a>
+                    <br>
+                    <small class="item-time">Ngày 11 tháng 10 năm 2019</small>
+                    <p class="item-description">
+                        Trong cái tiết trời se se lạnh những ngày đầu thu, của những con chữ cuối cùng trên giảng đường,
+                        đánh dấu cột mốc mối tình 7 năm chuẩn bị tới hồi kết.
+                        Con tình cờ gặp lại người thầy năm xưa....
+                    </p>
+                </li>
+
+                <li class="list_post_item">
+                    <a href="/v-blog/chung-ta-lon-ca-roi" class="item_title">Chúng ta lớn cả rồi.</a>
                     <br>
                     <small class="item-time">Ngày 24 tháng 8 năm 2019</small>
                     <p class="item-description">
@@ -46,15 +57,6 @@ include './includes/header.php';
                     <small class="item-time">Ngày 7 tháng 7 năm 2019</small>
                     <p class="item-description">
                         Bài viết được trích từ một người bạn, người em mình mới quen, xin phép được gọi em là cô gái...
-                    </p>
-                </li>
-
-                <li class="list_post_item">
-                    <a href="/v-blog/lac-loi-tuoi-24" class="item_title">Lạc lối tuổi 24, 2 năm sau ra trường</a>
-                    <br>
-                    <small class="item-time">Ngày 5 tháng 5 năm 2019</small>
-                    <p class="item-description">
-                        Tuổi 24, bản thân ta cũng nên thay đổi, để trời đất luân hồi, cuộc đời "reset"...
                     </p>
                 </li>
 

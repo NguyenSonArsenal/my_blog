@@ -14,9 +14,10 @@ include './includes/header.php';
             <div class="col-sm-8">
                 <div class="content__heading">
                     <div class="content__title">
-                        <h1 class="color-red">Chúng ta đều lớn và trưởng thành cả rồi.</h1>
+                        <h1 class="color-red">Chúng ta lớn cả rồi.</h1>
                     </div>
                     <div class="content__time"><span>Ngày 24 tháng 8 năm 2019</span></div>
+                    <div class="content__time"><small>(Bài viết số 4)</small></div>
                 </div>
 
                 <div class="content_body text-justify">
@@ -82,7 +83,13 @@ include './includes/header.php';
                     </p>
 
                     <div class="action">
-                        <a class="color-red" href="mot-thoang-bach-khoa-trong-toi"><small><< Một thoáng bách khoa trong tôi</small></a>
+                        <a class="color-red" href="mot-thoang-bach-khoa-trong-toi">
+                            <small><< Một thoáng bách khoa trong tôi</small>
+                        </a>
+                        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                        <a class="color-red" href="nguoi-thay-va-moi-tinh-7-nam">
+                            <small>Người thầy, mối tình 7 năm và hồi kết. >></small>
+                        </a>
                     </div>
                 </div>
             </div>

@@ -39,12 +39,12 @@ include './includes/header.php';
                     Mình là <b class="color-red">Nguyen Son Arsenal</b>. Tác giả là một người vui tính, sôi nổi, và hòa đồng. Đam mê lập trình web, thích
                     chơi thể thao và đi du lịch. <br><br>
                     Qua blog, tác giả mong muốn được chia sẻ thật nhiều những kiến thức cuộc sống dựa trên những kinh nghiệm,
-                    những trải nghiệm thực tế trên con đường đời của chính tác giả cũng như các bài post từ những người bạn của tác giả.
+                    những trải nghiệm thực tế trên con đường đời của chính bản thân cũng như các bài post từ những người bạn của tác giả.
                     Các bài viết đều mang tính cá nhân, và mong muốn lan tỏa sự chia sẻ tới tất cả mọi người.
                     <br><br>
                     Có bất kì liên hệ nào, xin vui lòng ping ngay cho tác giả tại địa chỉ: <a
                             href="https://www.facebook.com/nguyen.son.9615" class="color-red">NguyenSonArsenal</a> <br>
-                    Tác giả ngàn lần đội ơn. <3
+                    Tác giả ngàn lần cúi đầu đội ơn💗.
                 </div>
             </div>
             <div class="col-sm-4 pc">
@@ -68,8 +68,21 @@ include './includes/header.php';
                 <h2 class="title color-red">Nhật kí sưu tầm</h2><br>
                 <ul class="list">
                     <li>
-                        <a class="blog__item" href="/v-blog/chung-ta-deu-lon-va-truong-thanh-ca-roi">
-                            <h4 class="item-title f18">Chúng ta đều lớn và trưởng thành cả rồi.</h4>
+                        <a class="blog__item" href="/v-blog/nguoi-thay-va-moi-tinh-7-nam">
+                            <h4 class="item-title f18">Người thầy, mối tình 7 năm và hồi kết.</h4>
+                            <small class="item-time">Ngày 11 tháng 10 năm 2019</small>
+                            <p class="item-description">
+                                Trong cái tiết trời se se lạnh những ngày đầu thu, của những con chữ cuối cùng trên giảng đường,
+                                đánh dấu cột mốc mối tình 7 năm chuẩn bị tới hồi kết.
+                                Con tình cờ gặp lại người thầy năm xưa....
+                            </p>
+                        </a>
+                    </li>
+                    <br>
+
+                    <li>
+                        <a class="blog__item" href="/v-blog/chung-ta-lon-ca-roi">
+                            <h4 class="item-title f18">Chúng ta lớn cả rồi.</h4>
                             <small class="item-time">Ngày 24 tháng 8 năm 2019</small>
                             <p class="item-description">
                                 Có lớn, có khôn rồi mới hiểu, trên đời này, chẳng sợ gì,
@@ -98,18 +111,6 @@ include './includes/header.php';
                             <p class="item-description">
                                 Bài viết được trích từ một người bạn, người em mình mới quen, xin phép được gọi là cô
                                 gái...
-                            </p>
-                        </a>
-                    </li>
-                    <br>
-
-                    <li>
-                        <a class="blog__item" href="/v-blog/lac-loi-tuoi-24">
-                            <h4 class="item-title f18">Lạc lối tuổi 24, 2 năm sau ra trường</h4>
-                            <small class="item-time">Ngày 5 tháng 5 năm 2019</small>
-                            <p class="item-description">
-                                Tuổi 24, có người 2 chó, 2 mèo, một khoản nợ kếch xù...
-                                CÒN BẢN THÂN TA CŨNG NÊN THAY ĐỔI RỒI, để trời đất luân hồi, cuộc đời "reset"...
                             </p>
                         </a>
                     </li>

@@ -17,6 +17,7 @@ include './includes/header.php';
                         <h1 class="color-red">Một thoáng bách khoa trong tôi.</h1>
                     </div>
                     <div class="content__time"><span>Ngày 21 tháng 7 năm 2019</span></div>
+                    <div class="content__time"><small>(Bài viết số 3)</small></div>
                 </div>
 
                 <div class="content_body text-justify">

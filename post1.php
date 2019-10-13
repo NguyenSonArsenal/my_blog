@@ -17,6 +17,7 @@ include './includes/header.php';
                         <h1 class="color-red">Lời xin lỗi ba chân thành</h1>
                     </div>
                     <div class="content__time"><span>Ngày 24 tháng 3 năm 2019</span></div>
+                    <div class="content__time"><small>(Bài viết số 1)</small></div>
                 </div>
                 <div class="content_body text-justify">
                     <p>Lời xin lỗi sau tất cả những lần cãi lời ba.</p>
@@ -35,7 +36,7 @@ include './includes/header.php';
                             style="border:none;overflow:hidden" scrolling="no" frameborder="0"
                             allowTransparency="true" allowFullScreen="true"></iframe>
                     <div class="action">
-                        <a class="color-red" href="lac-loi-tuoi-24"><small>Chênh vênh tuổi 24 mới ra trường >></small></a>
+                        <a class="color-red" href="cau-chuyen-ve-chuyen-xe-muon"><small>Câu chuyện về quê trên chuyến xe muộn >></small></a>
                     </div>
                 </div>
             </div>
