@@ -13,3 +13,4 @@ RewriteRule ^v-blog/cau-chuyen-ve-chuyen-xe-muon$ post3.php
 RewriteRule ^v-blog/mot-thoang-bach-khoa-trong-toi$ post4.php
 RewriteRule ^v-blog/chung-ta-lon-ca-roi$ post5.php
 RewriteRule ^v-blog/nguoi-thay-va-moi-tinh-7-nam$ post6.php
+RewriteRule ^v-blog/yumi-va-con-duong-tro-thanh-nu-ca-si-hat-lo-to-chuyen-nghiep$ post7.php

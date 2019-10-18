@@ -57,8 +57,6 @@ include './includes/header.php';
                         Cái loại phản bội, bán anh em khi được giá, coi khinh người khác, nghĩ mình giỏi, hỏi cái gì cũng biết, cũng xin mời => cút, không lý do...
                     </p>
 
-
-
                     <p>
                         <img class="img-reaction" src="<?php assets('assets/images/reactions/hack/icon_4.png') ?>">
                         Lâu lâu con lại được gặp lại thầy, con chúc thầy thật nhiều sức khỏe, và vẫn tận tâm với những lớp trẻ, như con đã may mắn khi được là học trò của thầy.
@@ -67,6 +65,10 @@ include './includes/header.php';
 
                     <div class="action">
                         <a class="color-red" href="chung-ta-lon-ca-roi"><small><< Chúng ta lớn cả rồi.</small></a>
+                        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                        <a class="color-red" href="yumi-va-con-duong-tro-thanh-nu-ca-si-hat-lo-to-chuyen-nghiep">
+                            <small>Yumi và con đường trở thành ca sĩ hát lô tô chuyên nghiệp. >></small>
+                        </a>
                     </div>
                 </div>
             </div>
