@@ -21,17 +21,6 @@ include './includes/header.php';
         <div class="list_post_wrapper">
             <ul class="list_post_ul">
                 <li class="list_post_item">
-                    <a href="/v-blog/yumi-va-con-duong-tro-thanh-nu-ca-si-hat-lo-to-chuyen-nghiep" class="item_title">
-                        Yumi và con đường trở thành nữ ca sĩ hát lô tô chuyên nghiệp.
-                    </a>
-                    <br>
-                    <small class="item-time">Ngày 18 tháng 10 năm 2019</small>
-                    <p class="item-description">
-                        Ca sĩ Yumi, một cái tên có lẽ đã không còn quá xa lạ gì với hát lô tô, khi đã cùng với đoàn hát Hương Nam tham gia chương trình người bí ẩn...
-                    </p>
-                </li>
-
-                <li class="list_post_item">
                     <a href="/v-blog/nguoi-thay-va-moi-tinh-7-nam" class="item_title">Người thầy, mối tình 7 năm và hồi kết.</a>
                     <br>
                     <small class="item-time">Ngày 11 tháng 10 năm 2019</small>
