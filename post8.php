@@ -162,6 +162,10 @@ include './includes/header.php';
 
                     <div class="action">
                         <a class="color-red" href="nguoi-thay-va-moi-tinh-7-nam"><small><< Người thầy và mối tình 7 năm.</small></a>
+                        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                        <a class="color-red" href="follow-cho-nguoi-moi">
+                            <small>Follow cho thành viên mới. >></small>
+                        </a>
                     </div>
                 </div>
             </div>

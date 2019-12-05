@@ -16,3 +16,4 @@ RewriteRule ^v-blog/nguoi-thay-va-moi-tinh-7-nam$ post6.php
 RewriteRule ^v-blog/yumi-va-con-duong-tro-thanh-nu-ca-si-hat-lo-to-chuyen-nghiep$ post7.php
 RewriteRule ^v-blog/team-ruby-1-nam-song-gio-va-chuyen-buon-nguoi$ post8.php
 RewriteRule ^v-blog/chung-ta-nen-co-cho-minh-nhung-su-lua-chon$ post9.php
+RewriteRule ^v-blog/follow-cho-nguoi-moi$ post10.php
