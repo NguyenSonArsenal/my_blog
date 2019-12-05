@@ -17,7 +17,7 @@ include './includes/header.php';
                         <h1 class="color-red">Yumi và con đường trở thành nữ ca sĩ hát lô tô chuyên nghiệp. </h1>
                     </div>
                     <div class="content__time"><span>Ngày 18 tháng 10 năm 2019</span></div>
-                    <div class="content__time"><small>(Bài viết số 6)</small></div>
+                    <div class="content__time"><small>(Bài viết số 100)</small></div>
                 </div>
 
                 <div class="content_body text-justify">

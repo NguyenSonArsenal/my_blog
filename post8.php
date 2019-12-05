@@ -17,7 +17,7 @@ include './includes/header.php';
                         <h1 class="color-red">Team ruby, một năm sóng gió và chuyện buôn người.</h1>
                     </div>
                     <div class="content__time"><span>Ngày 2 tháng 12 năm 2019</span></div>
-                    <div class="content__time"><small>(Bài viết số 7)</small></div>
+                    <div class="content__time"><small>(Bài viết số 101)</small></div>
                 </div>
 
                 <div class="content_body text-justify">

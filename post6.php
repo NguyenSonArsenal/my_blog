@@ -66,8 +66,8 @@ include './includes/header.php';
                     <div class="action">
                         <a class="color-red" href="chung-ta-lon-ca-roi"><small><< Chúng ta lớn cả rồi.</small></a>
                         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-                        <a class="color-red" href="yumi-va-con-duong-tro-thanh-nu-ca-si-hat-lo-to-chuyen-nghiep">
-                            <small>Yumi và con đường trở thành ca sĩ hát lô tô chuyên nghiệp. >></small>
+                        <a class="color-red" href="chung-ta-nen-co-cho-minh-nhung-su-lua-chon">
+                            <small>Chúng ta nên có cho mình những sự lựa chọn. >></small>
                         </a>
                     </div>
                 </div>
