@@ -21,6 +21,15 @@ include './includes/header.php';
         <div class="list_post_wrapper">
             <ul class="list_post_ul">
                 <li class="list_post_item">
+                    <a href="/v-blog/chung-ta-nen-co-cho-minh-nhung-su-lua-chon" class="item_title">Chúng ta nên có cho mình những sự lựa chọn.</a>
+                    <br>
+                    <small class="item-time">Ngày 5 tháng 12 năm 2019</small>
+                    <p class="item-description">
+                        Năm đó, 1 cái đề toán, 10 câu, 180p, làm 9 câu đầu cứ cho là hết 23 phút...
+                    </p>
+                </li>
+
+                <li class="list_post_item">
                     <a href="/v-blog/nguoi-thay-va-moi-tinh-7-nam" class="item_title">Người thầy, mối tình 7 năm và hồi kết.</a>
                     <br>
                     <small class="item-time">Ngày 11 tháng 10 năm 2019</small>

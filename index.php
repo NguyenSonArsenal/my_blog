@@ -68,6 +68,17 @@ include './includes/header.php';
                 <h2 class="title color-red">Nhật kí sưu tầm</h2><br>
                 <ul class="list">
                     <li>
+                        <a class="blog__item" href="v-blog/chung-ta-nen-co-cho-minh-nhung-su-lua-chon">
+                            <h4 class="item-title f18">Chúng ta nên có cho mình những sự lựa chọn.</h4>
+                            <small class="item-time">Ngày 5 tháng 12 năm 2019</small>
+                            <p class="item-description">
+                                Năm đó, 1 cái đề toán, 10 câu, 180p, làm 9 câu đầu cứ cho là hết 23 phút...
+                            </p>
+                        </a>
+                    </li>
+                    <br>
+
+                    <li>
                         <a class="blog__item" href="/v-blog/nguoi-thay-va-moi-tinh-7-nam">
                             <h4 class="item-title f18">Người thầy, mối tình 7 năm và hồi kết.</h4>
                             <small class="item-time">Ngày 11 tháng 10 năm 2019</small>
