@@ -21,6 +21,15 @@ include './includes/header.php';
         <div class="list_post_wrapper">
             <ul class="list_post_ul">
                 <li class="list_post_item">
+                    <a href="/v-blog/nhung-ngay-thu-bay-chu-nhat-ban-ron" class="item_title">Những ngày thứ 7 chủ nhật bận rộn.</a>
+                    <br>
+                    <small class="item-time">Ngày 12 tháng 12 năm 2019</small>
+                    <p class="item-description">
+                        Qua rồi, những ngày cuối tuần ngủ nướng, mẹ gọi mà còn làm nũng mẹ cho con ngủ thêm một chút...
+                    </p>
+                </li>
+
+                <li class="list_post_item">
                     <a href="/v-blog/chung-ta-nen-co-cho-minh-nhung-su-lua-chon" class="item_title">Chúng ta nên có cho mình những sự lựa chọn.</a>
                     <br>
                     <small class="item-time">Ngày 5 tháng 12 năm 2019</small>

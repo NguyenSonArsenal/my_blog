@@ -17,7 +17,7 @@ include './includes/header.php';
                         <h1 class="color-red">Chúng ta nên có cho mình những sự lựa chọn.</h1>
                     </div>
                     <div class="content__time"><span>Ngày 5 tháng 12 năm 2019</span></div>
-                    <div class="content__time"><small>(Bài viết số 7)</small></div>
+                    <div class="content__time"><small>(Bài viết số 6)</small></div>
                 </div>
 
                 <div class="content_body text-justify">
@@ -45,6 +45,10 @@ include './includes/header.php';
 
                     <div class="action">
                         <a class="color-red" href="nguoi-thay-va-moi-tinh-7-nam"><small><< Người thầy và mối tình 7 năm.</small></a>
+                        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                        <a class="color-red" href="nhung-ngay-thu-bay-chu-nhat-ban-ron">
+                            <small>Những ngày thứ 7 chủ nhật bận rộn. >></small>
+                        </a>
                     </div>
                 </div>
             </div>
