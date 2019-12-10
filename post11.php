@@ -43,7 +43,7 @@ include './includes/header.php';
                         chẳng cần nghỉ ngơi, xem thời gian là tri kỉ, là bạn đồng hành, tinh thần hôm nào cũng là đầu tuần.
                     </p>
 
-                    <img src="<?php assets('assets/images/posts/post11/nang_song_hong.png') ?>" width="100%"
+                    <img src="<?php assets('assets/images/posts/post11/nang_song_hong.jpg') ?>" width="100%"
                          alt="Kết thúc một ngày làm việc cho nhà hàng Nắng Sông Hồng">
                     <small style="display: block; text-align: center; padding-top: 5px">Kết thúc một ngày làm việc cho nhà hàng Nắng Sông Hồng</small>
 
