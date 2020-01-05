@@ -40,14 +40,14 @@ include './includes/header.php';
                     <p>
                         <img class="img-reaction" src="<?php assets('assets/images/reactions/hack/icon_1.png') ?>">
                         Đó, cho nên, cuộc sống này, nếu được, thì hãy có cho mình <strong>những sự lựa chọn dễ dàng</strong>.
-                        Khuyên thật lòng anh em may mắn khi đọc được những dòng tự sự này.
+                        Thật lòng mà nói thì nó nên là như vậy.
                     </p>
 
                     <div class="action">
                         <a class="color-red" href="nguoi-thay-va-moi-tinh-7-nam"><small><< Người thầy và mối tình 7 năm.</small></a>
                         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-                        <a class="color-red" href="nhung-ngay-thu-bay-chu-nhat-ban-ron">
-                            <small>Những ngày thứ 7 chủ nhật bận rộn. >></small>
+                        <a class="color-red" href="nhung-ngay-cuoi-tuan-ban-ron">
+                            <small>Những ngày cuối tuần bận rộn. >></small>
                         </a>
                     </div>
                 </div>

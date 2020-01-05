@@ -21,7 +21,16 @@ include './includes/header.php';
         <div class="list_post_wrapper">
             <ul class="list_post_ul">
                 <li class="list_post_item">
-                    <a href="/v-blog/nhung-ngay-thu-bay-chu-nhat-ban-ron" class="item_title">Những ngày thứ 7 chủ nhật bận rộn.</a>
+                    <a href="v-blog/ngay-cuoi-thap-ki" class="item_title">Ngày cuối thập kỉ.</a>
+                    <br>
+                    <small class="item-time">Ngày 31 tháng 12 năm 2019</small>
+                    <p class="item-description">
+                        Ngày cuối của thập kỉ, dành trọn sự iu thương cho bản thân mình.
+                    </p>
+                </li>
+
+                <li class="list_post_item">
+                    <a href="/v-blog/nhung-ngay-cuoi-tuan-ban-ron" class="item_title">Những ngày cuối tuần bận rộn.</a>
                     <br>
                     <small class="item-time">Ngày 12 tháng 12 năm 2019</small>
                     <p class="item-description">

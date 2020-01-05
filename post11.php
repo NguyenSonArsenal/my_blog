@@ -14,7 +14,7 @@ include './includes/header.php';
             <div class="col-sm-8">
                 <div class="content__heading">
                     <div class="content__title">
-                        <h1 class="color-red">Những ngày thứ 7 chủ nhật bận rộn.</h1>
+                        <h1 class="color-red">Những ngày cuối tuần bận rộn.</h1>
                     </div>
                     <div class="content__time"><span>Ngày 12 tháng 12 năm 2019</span></div>
                     <div class="content__time"><small>(Bài viết số 7)</small></div>
@@ -55,7 +55,13 @@ include './includes/header.php';
                     </p>
 
                     <div class="action">
-                        <a class="color-red" href="chung-ta-nen-co-cho-minh-nhung-su-lua-chon"><small><< Chúng ta nên có cho mình những sự lựa chọn.</small></a>
+                        <a class="color-red" href="chung-ta-nen-co-cho-minh-nhung-su-lua-chon">
+                            <small><< Chúng ta nên có cho mình những sự lựa chọn.</small>
+                        </a>
+                        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                        <a class="color-red" href="ngay-cuoi-thap-ki">
+                            <small> Ngày cuối thập kỉ. >></small>
+                        </a>
                     </div>
                 </div>
             </div>

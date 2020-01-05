@@ -68,8 +68,19 @@ include './includes/header.php';
                 <h2 class="title color-red">Nhật kí sưu tầm</h2><br>
                 <ul class="list">
                     <li>
-                        <a class="blog__item" href="v-blog/nhung-ngay-thu-bay-chu-nhat-ban-ron">
-                            <h4 class="item-title f18">Những ngày thứ 7 chủ nhật bận rộn.</h4>
+                        <a class="blog__item" href="v-blog/ngay-cuoi-thap-ki">
+                            <h4 class="item-title f18">Ngày cuối thập kỉ.</h4>
+                            <small class="item-time">Ngày 31 tháng 12 năm 2019</small>
+                            <p class="item-description">
+                                Ngày cuối của thập kỉ, dành trọn sự iu thương cho bản thân mình.
+                            </p>
+                        </a>
+                    </li>
+                    <br>
+
+                    <li>
+                        <a class="blog__item" href="v-blog/nhung-ngay-cuoi-tuan-ban-ron">
+                            <h4 class="item-title f18">Những ngày cuối tuần bận rộn.</h4>
                             <small class="item-time">Ngày 12 tháng 12 năm 2019</small>
                             <p class="item-description">
                                 Qua rồi, những ngày cuối tuần ngủ nướng, mẹ gọi mà còn làm nũng mẹ cho con ngủ thêm một chút...
