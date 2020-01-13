@@ -44,6 +44,10 @@ include './includes/header.php';
                         Chỉ là Arsenal với con hiện tại nó đã ngấm vào máu, vào tiềm thức, vào suy nghĩ, và đam mê cho định hướng công việc tương lai của con mai này.
                     </p>
 
+                    <img src="<?php assets('assets/images/posts/post13/1.jpg') ?>" width="100%"
+                         alt="Nuno arsenal">
+                    <small style="display: block; text-align: center; padding-top: 5px"><i>Arsenal - màu đỏ trắng tôi yêu</i></small>
+
                     <p>
                         <img class="img-reaction" src="<?php assets('assets/images/reactions/hack/icon_11.png') ?>">
                         Và cho đến hôm nay, khi con trưởng thành, biết yêu, ghét rõ ràng, biết cơ hội đến để thực hiện giấc mơ, mà có lẽ ngay trong suy nghĩ con cũng chẳng giám mơ tới,
@@ -129,6 +133,10 @@ include './includes/header.php';
                         <br>
                         Thời gian sẽ trả lời cho sự thành công của lần đầu tái hợp, và những gì mà người đội trưởng năm xưa sẽ đem tới nơi này.
                     </p>
+
+                    <img src="<?php assets('assets/images/posts/post13/arteta.jpg') ?>" width="100%"
+                         alt="Nuno arsenal">
+                    <small style="display: block; text-align: center; padding-top: 5px"><i>Arteta - người mang trong mình 3 bộ não</i></small>
 
                     <p>
                         <img class="img-reaction" src="<?php assets('assets/images/reactions/hack/icon_4.png') ?>">
