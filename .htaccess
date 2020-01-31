@@ -19,3 +19,4 @@ RewriteRule ^v-blog/chung-ta-nen-co-cho-minh-nhung-su-lua-chon$ post9.php
 RewriteRule ^v-blog/follow-cho-nguoi-moi$ post10.php
 RewriteRule ^v-blog/nhung-ngay-cuoi-tuan-ban-ron$ post11.php
 RewriteRule ^v-blog/ngay-cuoi-thap-ki$ post12.php
+RewriteRule ^v-blog/2-anh-em-tong-ket-2020-va-ke-hoach-2021$ post13.php
