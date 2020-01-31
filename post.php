@@ -21,6 +21,15 @@ include './includes/header.php';
         <div class="list_post_wrapper">
             <ul class="list_post_ul">
                 <li class="list_post_item">
+                    <a href="v-blog/arsenal-arteta-dung-nguoi-dung-thoi-diem" class="item_title">Arsenal - Arteta đúng người đúng thời điểm.</a>
+                    <br>
+                    <small class="item-time">Ngày 13 tháng 1 năm 2020</small>
+                    <p class="item-description">
+                        Arsenal - Mikel Arteta - người mang trong mình 3 bộ não - sự kết hợp đúng người lẫn thời điểm để hy vọng.
+                    </p>
+                </li>
+
+                <li class="list_post_item">
                     <a href="v-blog/ngay-cuoi-thap-ki" class="item_title">Ngày cuối thập kỉ.</a>
                     <br>
                     <small class="item-time">Ngày 31 tháng 12 năm 2019</small>
